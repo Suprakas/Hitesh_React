@@ -1,4 +1,3 @@
-import { defaults } from 'autoprefixer';
 import React, {useId} from 'react'
 
 function InputBox({
